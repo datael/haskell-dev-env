@@ -1,0 +1,1 @@
+FROM datael/haskell-dev

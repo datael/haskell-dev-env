@@ -1,0 +1,17 @@
+{
+	"name": "Haskell",
+	"context": ".",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.profiles.linux":{
+			"bash": {
+				"path": "bash"
+			},
+		},
+		"terminal.integrated.defaultProfile.linux": "bash",
+	},
+	"extensions": [
+		"haskell.haskell",
+		"phoityne.phoityne-vscode"
+	]
+}
